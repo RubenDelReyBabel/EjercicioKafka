@@ -1,0 +1,11 @@
+{
+  "namespace": "test",
+  "type": "record",
+  "name": "key",
+  "fields": [
+    {"name": "matricula", "type": "string"},
+    {"name": "km", "type": "float"},
+    {"name": "velocidad", "type": "int"},
+    {"name": "timestamp", "type": "float"}
+  ]
+}
